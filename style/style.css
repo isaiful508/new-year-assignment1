@@ -14,19 +14,26 @@
 }
 .banner-style p{
     color: #FFF;
-text-align: center;
+
 font-family: Merriweather;
 font-size: 32px;
 font-style: normal;
 font-weight: 400;
-line-height: normal;
+
+
 }
 .banner-style h2{
     color: #FFF;
-text-align: center;
+
 font-family: Merriweather;
 font-size: 72px;
 font-style: normal;
 font-weight: 900;
-line-height: 95px; /* 131.944% */
+line-height: 95px;
+;
+}
+.text{
+    text-align: center;
+    padding:120px 180px ;
+
 }
