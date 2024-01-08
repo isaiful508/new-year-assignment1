@@ -67,9 +67,11 @@ line-height: normal;
     font-size: 48px;
     font-weight: 700;
     margin-top: 5px;
-    
-}
+} 
 
+.new-year-pic{
+    margin-top: 35px;
+}
  
 /* .midnight h1{
     color: #FFF;
