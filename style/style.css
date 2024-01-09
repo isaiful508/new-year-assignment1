@@ -320,7 +320,6 @@
     font-style: normal;
     font-weight: 500;
     line-height: 32px;
-
 }
 
 .red-content {
@@ -329,19 +328,18 @@
     align-items: center;
     margin-bottom: 100px;
     position: relative;
-
 }
+.bgimg{
+    position:absolute;
+    left: 1100px;
+    bottom:300px;
+    }
 
 .red-bg-img {
-    background-image: url(../B9A1-New-Year-New-Mission-main/resources/Rectangle\ 1.png);
-    background-repeat: no-repeat;
-    position:absolute;
-    top: 0;
-    right: px;
-    bottom: 0;
-    left: 1300px;
     
-
+    position: absolute;
+    bottom: 230px;
+    left: 1182px;
 }
 
 
