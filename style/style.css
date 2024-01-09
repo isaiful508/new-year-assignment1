@@ -205,6 +205,10 @@
 
 }
 
+.bestoffer-div {
+    /* margin-right: 40px; */
+}
+
 .bestoffer-div h4 {
     color: #F00;
     /* text-align: center; */
@@ -242,11 +246,13 @@
     border-radius: 50%;
     border: 15px solid #F00;
     padding: 30px;
+    margin-left: 75px;
+
 
 }
 
 .year {
-    margin-left: 311px;
+    margin-left: 150px;
 }
 
 .year h2 {
@@ -449,4 +455,54 @@
     font-weight: 600;
     line-height: normal;
     text-transform: capitalize;
+}
+
+/* footer section start */
+.footer {
+    background-color: #070211;
+    ;
+    width: 1600px;
+    height: 609px;
+    padding: 140px;
+    margin: 0 auto;
+}
+
+.footer-title h6 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+}
+
+.footer-title {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+.phn-site {
+    margin-right: 8px;
+}
+
+.icon {
+    text-align: center;
+    margin-top: 270px;
+}
+.bottom-text{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bottom-text h6 {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    
 }
