@@ -324,19 +324,20 @@
 
 .red-content {
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
     margin-bottom: 100px;
     position: relative;
 }
-.bgimg{
-    position:absolute;
-    left: 1100px;
-    bottom:300px;
-    }
+
+.bgimg {
+    position: absolute;
+    left: 1030px;
+    bottom: 300px;
+}
 
 .red-bg-img {
-    
+
     position: absolute;
     bottom: 230px;
     left: 1182px;
@@ -385,6 +386,7 @@
     margin-left: 280px;
 
 }
+
 /* .pic{
     
 }  */
@@ -419,7 +421,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
-     
+
 }
 
 .newslatter form {
@@ -430,7 +432,7 @@
     border: none;
     margin: 20px auto;
     display: flex;
-    
+
 
 }
 
@@ -446,7 +448,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    
+
 }
 
 .newslatter button {
@@ -475,6 +477,14 @@
     margin: 0 auto;
 }
 
+.footer hr {
+    width: 1400px;
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+  margin-left: 3px;
+  margin-top: 20px;
+}
+
 .footer-title h6 {
     color: #FFF;
     font-family: Inter;
@@ -497,9 +507,10 @@
 
 .icon {
     text-align: center;
-    margin-top: 270px;
+    margin-top: 250px;
 }
-.bottom-text{
+
+.bottom-text {
     display: flex;
     justify-content: space-between;
 
@@ -512,5 +523,5 @@
     font-style: normal;
     font-weight: 500;
     line-height: 40px;
-    
+
 }
