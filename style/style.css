@@ -319,7 +319,7 @@
 
 .red-content {
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
     margin-bottom: 100px;
 
@@ -334,7 +334,7 @@
 
 /* section 6 start */
 .portfolio{
-    margin-left: 140px;
+    margin-left: 280px;
     margin-bottom: 50px;
 }
 
@@ -365,4 +365,10 @@
     font-weight: 400;
     line-height: 32px;
     /* 160% */
+}
+.portfolio-img{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    margin-left: 280px;
 }
