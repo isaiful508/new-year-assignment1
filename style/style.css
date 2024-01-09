@@ -325,18 +325,25 @@
 
 .red-content {
     display: flex;
-    justify-content: center;
+    justify-content:center;
     align-items: center;
     margin-bottom: 100px;
+    position: relative;
 
 }
 
 .red-bg-img {
     background-image: url(../B9A1-New-Year-New-Mission-main/resources/Rectangle\ 1.png);
     background-repeat: no-repeat;
-    margin-right: px;
+    position:absolute;
+    top: 0;
+    right: px;
+    bottom: 0;
+    left: 1300px;
+    
 
 }
+
 
 /* section 6 start */
 .portfolio {
@@ -380,6 +387,9 @@
     margin-left: 280px;
 
 }
+/* .pic{
+    
+}  */
 
 /* section 7 start */
 .newslatter {
@@ -411,7 +421,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
-    /* 160% */
+     
 }
 
 .newslatter form {
@@ -422,6 +432,7 @@
     border: none;
     margin: 20px auto;
     display: flex;
+    
 
 }
 
@@ -437,8 +448,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    /* outline: 0; */
-    /* padding-right: 100px; */
+    
 }
 
 .newslatter button {
@@ -462,7 +472,7 @@
     background-color: #070211;
     ;
     width: 1600px;
-    height: 609px;
+    height: 500px;
     padding: 140px;
     margin: 0 auto;
 }
